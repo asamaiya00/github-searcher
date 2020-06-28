@@ -294,6 +294,14 @@ img {
   border: #ccc solid 1px;
 }
 
+.btn-cyan,
+.bg-cyan,
+.badge-cyan,
+.alert-cyan {
+  background: #7a0ec2;
+  color: #fff;
+}
+
 .btn:hover {
   opacity: 0.8;
 }
