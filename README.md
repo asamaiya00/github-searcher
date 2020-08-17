@@ -1,1 +1,1 @@
-https://githubsearcher5805.netlify.app/
+https://animesh-githubsearcher.netlify.app/
